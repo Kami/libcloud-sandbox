@@ -1,0 +1,5 @@
+celery
+tornado
+redis
+-e git://github.com/joshmarshall/tornadorpc.git#egg=tornadorpc
+-e git://github.com/evilkost/brukva.git#egg=brukva
