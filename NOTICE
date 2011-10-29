@@ -1,5 +1,5 @@
-libcloud_sandbox/tasks/code_execute.py and site/js/core.js files are based on
-the "Try Python RPC Interpreter" which is licensed under GNU GPL Version 3 
-license and Copyright (c) 2011 Jakub Jankiewicz <http://jcubic.pl>.
+site/js/core.js file is based on the "Try Python RPC Interpreter" which is
+licensed under GNU GPL Version 3  license and Copyright (c) 2011 Jakub
+Jankiewicz <http://jcubic.pl>.
 
 Website: https://github.com/jcubic/try-python/
